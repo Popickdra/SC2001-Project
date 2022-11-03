@@ -1,4 +1,4 @@
-Merge Insertion Sort</br>
+# Merge Insertion Sort</br>
 Hybrid Sorting algorithm</br>
 At a pre-specified depth n, the array will divide until each divided array is size n.</br>
 Then, insertion sort will be called to sort the smaller arrays.</br>
