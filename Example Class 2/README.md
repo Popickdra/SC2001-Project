@@ -1,18 +1,18 @@
-The djikstra algorithm
+# Djikstra Algorithm
 
-For this example class, we are required to use two possible methods for djikstra algorithm
-(a) Adjacency Matrix + Array as priority queue
-(b) Adjacency List + Heap Sort as priority queue (Use hash map)
+For this example class, we are required to use two possible methods for djikstra algorithm</br>
+(a) Adjacency Matrix + Array as priority queue</br>
+(b) Adjacency List + Heap Sort as priority queue (Use hash map)</br>
 
-Assumptions:
-No negative weights
-Every vertice is connected to another vertice
+Assumptions:</br>
+No negative weights</br>
+Every vertice is connected to another vertice</br>
 
-Data Structures:
-S - solution set
-distance - array to store the distance from source to node
-pi - predecessors to store the vertice node is connected to
+Data Structures:</br>
+S - solution set</br>
+distance - array to store the distance from source to node</br>
+pi - predecessors to store the vertice node is connected to</br>
 
-Time Complexity:
-(a) O(V^2)
-(b) O((|V| + |E|)log|V|)
+Time Complexity:</br>
+(a) O(V^2)</br>
+(b) O((|V| + |E|)log|V|)</br>
