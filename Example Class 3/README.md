@@ -1,4 +1,4 @@
-Unbounded Knapsack</br>
+# Unbounded Knapsack</br>
 Given unlimited supplies of n types of objects, how do we maximise the profit while adhering to the capacity of the knapsack?</br>
 
 Data Structures used:</br>
